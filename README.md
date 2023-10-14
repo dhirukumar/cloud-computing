@@ -1,5 +1,4 @@
 # openstack
-<img align="middel" alt="coding" width="600" src=""
 # Deploying Openstack by using Devstack
 
 
