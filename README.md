@@ -4,7 +4,7 @@
 
 ### Update and Upgrade the System:
 ```
-apt update -y && apt upgrade -y
+sudo apt update -y && apt upgrade -y
 ```
 ### Reboot the system:
 ```
