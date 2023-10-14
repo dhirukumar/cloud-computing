@@ -1,5 +1,5 @@
 # openstack
-<img align="middel" alt="coding" width="600" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27758%2Fopenstack&psig=AOvVaw02DDldb0TVsqKTP-yI2SIH&ust=1697338517152000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD24uzE9IEDFQAAAAAdAAAAABAJ"
+<img align="middel" alt="coding" width="600" src=""
 # Deploying Openstack by using Devstack
 
 
