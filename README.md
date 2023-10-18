@@ -23,7 +23,7 @@ echo "stack ALL=(ALL) NOPASSWD: ALL" | sudo tee /etc/sudoers.d/stack
 ```
 ### Switch user:
 ```
-su - stack
+sudo su - stack
 ```
 ### Install git and download DevStack:
 ```
@@ -40,9 +40,7 @@ cd devstack
 ```
 vim local.conf
 ```
-```
-:wq
-```
+
 ```
 [[local|localrc]]
 # Password for KeyStone, Database, RabbitMQ and Service
@@ -52,6 +50,10 @@ RABBIT_PASSWORD=$ADMIN_PASSWORD
 SERVICE_PASSWORD=$ADMIN_PASSWORD
 # Host IP - get your Server/VM IP address from ip addr command
 HOST_IP=10.208.0.10
+```
+### for exit
+```
+:wq
 ```
 ### The ADMIN_PASSWORD is the password that you will use to log in to the OpenStack login page. The default username is admin.
 ### The HOST_IP is your system’s IP address that is obtained by running ifconfig or ip addr commands.
