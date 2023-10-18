@@ -1,5 +1,9 @@
 # openstack
 # Deploying Openstack by using Devstack
+## go to root user
+```
+sudo -i
+```
 
 
 ### Update and Upgrade the System:
