@@ -1,6 +1,6 @@
 # openstack
 # Deploying Openstack by using Devstack
-## go to root user
+### go to root user
 ```
 sudo -i
 ```
