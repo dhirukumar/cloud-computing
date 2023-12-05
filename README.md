@@ -66,6 +66,7 @@ HOST_IP=10.208.0.10
 ./stack.sh
 
 ```
+- To access OpenStack via a web browser browse your Ubuntu’s IP address as shown. https://server-ip/dashboard This directs you to a login page as shown.
 - ***TO REACH YOUR OPENSTACK USER LOGIN DASHBOARD PUT YOUR  PUBLIC IP ON SEARCH ENGINE***
 
 - ***And you will successfully enter in openstack***
